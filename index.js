@@ -98,3 +98,6 @@ choices: ['Engineer','Intern','Build team']
       });
   }
 });
+
+
+const generateHtml = ({})
