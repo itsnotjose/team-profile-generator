@@ -1,6 +1,6 @@
-# team-profile-generator
-# Object-Oriented Programming Challenge: Team Profile Generator👋
 
+# Object-Oriented Programming Challenge: Team Profile Generator👋
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 yo
 
 ## Table of Contents
