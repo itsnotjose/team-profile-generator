@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see the https://opensource.org/
 
 ## Contributing
 
-![image]({https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white})
+
 
 ## Tests
 
