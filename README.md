@@ -1,37 +1,38 @@
 
 # Object-Oriented Programming Challenge: Team Profile Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-yo
+##  This is a quick and easy way to generate a team profile in minutes through the command line. The user will be prompted information about their team members, including their name, id, email, and specific information based on their role (manager, engineer, intern).
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
 
-gd
+- Node.js 
+- npm (Node Package Manager)
 
 ## Usage
-
-dg
+1. Clone the repository
+2. Install needed Installations
+3. Open the command line and type `node index.js` to run application
+4. Follow the prompt and you will be presented with a README.md file
 
 
 ## License 
 This project is licensed under the MIT License - see the https://opensource.org/licenses/MIT file for details
 
 
-## Contributing
+## Built With
 
-
-
-## Tests
-
-efe
+- Node.js
+- npm packages:
+  - inquirer
+  - fs
+  - path
 
 ## Questions
 
